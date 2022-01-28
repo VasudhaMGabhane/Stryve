@@ -1,0 +1,189 @@
+.main-ab{
+  top: 0;
+  margin-top: -180px;
+}
+
+.main-b{
+  position: relative;
+  overflow: hidden;
+  width: 50vw;
+  height: 50vw;
+  min-height: 800px;
+  margin-left: -105px;
+  background-color: #0f00c0;
+}
+.div-block{
+  flex: 50%;
+  left: auto;
+  top: 5%;
+  right: -3%;
+  bottom: auto;
+  width: 50vw;
+  height: 50vw;
+  min-height: 640px;
+  min-width: 640px;
+  
+}
+div{
+  display: block;
+}
+.blue img{
+  left: auto;
+  top: -8%;
+  right: -4%;
+  bottom: auto;
+  width: 40%;
+  height: 40%;
+}
+.blue-img{
+  margin-left: 500px;
+  margin-top: -160px;
+}
+.pea img{
+  left: 14%;
+    top: 28%;
+    right: auto;
+    bottom: auto;
+    width: 28%;
+    height: 28;
+}
+.pea-img{
+  margin-left: 130px;
+  margin-top: -75px;
+}
+.pink img{
+  left: 35%;
+  top: auto;
+  right: auto;
+  bottom: -5%;
+  width: 30%;
+  height: 30%;
+}
+.pink-img1{
+  margin-top: -102px;
+  margin-left: 10px;
+}
+.pink-img2{
+  margin-left: 290px;
+  margin-bottom:-25px ;
+  overflow: hidden;
+}
+.yellow img{
+  left: 18%;
+  top: auto;
+  right: auto;
+  bottom: 25%;
+  width: 8%;
+  height: 8%;
+}
+.yellow-img{
+  margin-left: 155px;
+  margin-top: 60px;
+}
+.orange img{
+  right: 15%;
+  bottom: 20%;
+  width: 7%;
+  height: 7%;
+}
+.orange-img{
+  margin-top: -1000px;
+  margin-left: 620px;
+  margin-bottom: 200px;
+}
+.light-pink img{
+  top: 15%;
+  right: 50%;
+  width: 5%;
+  height: 5%;
+}
+.light-pink-img{
+  margin-left: 350px;
+  margin-top: -380px;
+  margin-bottom: 140px;
+}
+
+.placeholder{
+  background-color: #fff;
+  width: 107px;
+  height: 77px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.woman-face{
+  margin-top: -400px;
+  margin-left: 590px;
+}
+.woman-face-img{
+  width: 100px;
+  height: 70px;
+  margin-left: 2.5px;
+  margin-top: 2.5px;
+  
+}
+.text{
+  box-sizing: border-box;
+  display: inline;
+  font-size: 11px;
+}
+.text p{
+  background-color: #fff;
+  color: #000;
+  border-radius: 20px;
+  text-align: center;
+  justify-content: center;
+  height: 25px;
+  padding-top: 2px;
+}
+
+.t1{
+  position: absolute;
+  margin-top: -333px;
+  margin-left: 82px;
+  width: 198px;
+  padding:3px;
+  z-index: 2;
+}
+.t2{
+  position: absolute;
+  width: 120px;
+  margin-top: -150px;
+  margin-left: 370px;
+  z-index: 2;
+}
+.t3{
+  position: absolute;
+  width:205px;
+  margin-top: 113px;
+  margin-left: 157px;
+  opacity: 1;
+  z-index: 2;
+}
+.t4{
+  position: absolute;
+  width: 110px;
+  margin-top: 10px;
+  margin-left: 580px;
+  z-index: 2;
+}
+.text p{
+  overflow: visible;
+}
+.line-draw{
+  position: absolute;
+  left: 0;
+  top: -5%;
+  right: auto;
+  bottom: auto;
+  width: 76%;
+  z-index: 0;
+}
+.line{
+
+    overflow: visible;
+    overflow-x: visible ;
+    overflow-y: visible ;
+    margin-top: 50px;
+   margin-right: -18px;
+}
